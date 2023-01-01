@@ -1,0 +1,31 @@
+.tab-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  /* border-bottom: 1px solid #7b8794; */
+}
+
+.tab-item {
+  margin: 10px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+.tab-name {
+  font-size: 25px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  color: #7b8794;
+}
+
+.h-line {
+  border: 1px solid #dfe2e5;
+  width: 100%;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+.active-tab {
+  color: #2563eb;
+}
